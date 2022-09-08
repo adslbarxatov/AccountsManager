@@ -1,5 +1,5 @@
-# Accounts manager v 1.51
-> PCC: 000D294651B3FF12
+# Accounts manager v 1.52
+> PCC: 000D35FCCFD44B31
 
 
 Инструмент управления бюджетными счетами
