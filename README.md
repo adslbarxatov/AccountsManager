@@ -1,5 +1,5 @@
-# Accounts manager v 1.52
-> PCC: 000D35FCCFD44B31
+# Accounts manager v 1.53
+> PCC: 000CF577F4490CCC
 
 
 Инструмент управления бюджетными счетами
@@ -29,8 +29,8 @@
 
 ## Требования
 
-- Windows XP или новее;
-- [Microsoft .NET Framework 4.0](https://microsoft.com/en-us/download/details.aspx?id=17718);
+- Windows 7 или новее;
+- [Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631);
 - [Microsoft SQL Server Compact 4.0 SP1](https://microsoft.com/en-us/download/details.aspx?id=30709).
 
 Язык интерфейса: ru_ru.
